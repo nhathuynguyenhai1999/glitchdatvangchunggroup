@@ -27,7 +27,7 @@ root {
   font-family: "HK Grotesk";
   font-family-header: "HK Grotesk";
 }
-none {
+html {
   box-sizing: border-box;
 }
 [hidden] {

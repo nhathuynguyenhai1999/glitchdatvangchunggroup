@@ -1,3 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 html {
   background: #2ecc71;
   background-image:url("https://cdn.glitch.global/9e1df76c-bf41-4a51-8e6c-11a9ad629685/thumbnails%2F352851105_312984327725933_6290753780368067842_n.jpg?1686923686958");
